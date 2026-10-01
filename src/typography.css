@@ -1,0 +1,78 @@
+.brand-lockup{font-size:15px}
+.brand-sub{font-size:9px}
+.workspace-label{font-size:10px}
+.nav-link{font-size:13px}
+.nav-index{font-size:11px}
+.integrity{font-size:11px}
+.integrity small,.user-label small{font-size:10px}
+.avatar{font-size:12px}
+.avatar.small{font-size:11px}
+.user-label b,.user-mini{font-size:12px}
+.sidebar-version,.secure-tag,.strip-code{font-size:9px}
+.breadcrumb{font-size:11px}
+.eyebrow{font-size:10px}
+.page-heading h1{font-size:33px}
+.page-heading p{font-size:14px}
+.button{font-size:12px}
+.filter-title span,.filter-field>span{font-size:9px}
+.filter-field input,.filter-field select{font-size:12px}
+.clear-filters{font-size:10px}
+.metric-top{font-size:10px}
+.metric-card strong,.movement-total strong{font-size:38px}
+.metric-bottom{font-size:11px}
+.panel-heading h2{font-size:18px}
+.live-pill{font-size:9px}
+th{font-size:9px}
+td{font-size:11px}
+.item-name{font-size:11px}
+.item-name+small,td>small,.closing-cell small{font-size:9px}
+.text-link{font-size:9px}
+.movement-count,.record-count{font-size:10px}
+.movement-total span{font-size:11px}
+.legend-list>div,.bottom-strip b{font-size:11px}
+.legend-list b{font-size:11px}
+.bottom-strip small{font-size:10px}
+.page-footer{font-size:9px}
+.reference-tag{font-size:11px}
+.base-chip{font-size:10px}
+.empty-state,.loading-panel,.error-banner,.form-error,.toast{font-size:12px}
+.modal-heading h2{font-size:21px}
+.modal-form label{font-size:12px}
+.modal-form input,.input-select select{font-size:12px}
+.optional{font-size:9px}
+.available-note{font-size:11px}
+.detail-row{font-size:12px}
+.detail-row small{font-size:10px}
+.detail-row>b,.detail-total b{font-size:13px}
+.detail-total{font-size:12px}
+.detail-note{font-size:10px}
+.boot-screen{font-size:14px}
+.login-message p{font-size:15px}
+.login-form h2{font-size:31px}
+.login-form>.muted{font-size:13px}
+.login-form label{font-size:12px}
+.login-form input{height:44px;font-size:14px}
+.login-form .button.full{height:46px;font-size:13px}
+.login-foot,.aside-meta{font-size:10px}
+@media(max-width:760px){
+	.breadcrumb{font-size:10px}
+	.page-heading h1{font-size:29px}
+	.page-heading p{font-size:12px}
+	.filter-field input,.filter-field select{font-size:11px}
+	.clear-filters{font-size:9px}
+	.metric-top{font-size:9px}
+	.metric-card strong{font-size:31px}
+	.metric-bottom{font-size:10px}
+	.panel-heading h2{font-size:17px}
+	.inventory-panel th{font-size:8px}
+	.inventory-panel td{font-size:10px}
+	.item-name{font-size:10px}
+	.item-name+small,td>small{font-size:8px}
+	.page-footer{font-size:8px}
+	.register-table td{font-size:10px}
+	.record-count{font-size:9px}
+	.login-form h2{font-size:29px}
+	.login-form>.muted{font-size:12px}
+	.login-form label{font-size:12px}
+	.login-form input{font-size:14px}
+}
