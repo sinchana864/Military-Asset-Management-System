@@ -1,3 +1,4 @@
+
 # Fieldstock
 
 Multi-base asset ledger with a React/Vite interface, Express REST API, and **MySQL 8** database. InnoDB foreign keys enforce relational integrity; transactions keep stock checks, movement writes, and audit events atomic. Opening and closing balances are derived from the movement ledger.
